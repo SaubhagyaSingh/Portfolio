@@ -158,3 +158,6 @@ article {
   cursor: pointer;
   position: relative;
 }
+img.chess{
+  margin-left:250px;
+}
